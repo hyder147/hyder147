@@ -26,7 +26,7 @@ ali_haider = {
 
 ## Featured Projects
 
-###  Spawn Point — Discord ka competitor, but better
+###  Spawn Point — Discord's competitor, but better
 > A real-time communication platform with unique features not found in Discord.  
 > Built with a focus on community management and user experience.
 
@@ -85,5 +85,5 @@ ali_haider = {
 </p>
 
 <p align="center">
-  <i>"Code karo, seekhte raho, build karte raho."</i>
+  <i>"Let someone see the code and let them build"</i>
 </p>
